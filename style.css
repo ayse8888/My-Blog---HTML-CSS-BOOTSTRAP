@@ -1,0 +1,21 @@
+  
+.card-body ul {
+  list-style: none;
+}
+
+.unknown {
+  display: inline-block;
+  width: 75px;
+  height: 25px;
+  background-color: black;
+  color: white;
+}
+
+.popular,
+.follow {
+  color: #3f3f3f;
+  font-weight: bold;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-size: large;
+}
+
